@@ -1,0 +1,13 @@
+
+Filtrar dados
+Excluir uma linha especifica
+Editar dados de um linha
+Converter csv pra listas ou dicionarios
+Contar quantas vezes um valor apareace
+Ordenar por uma colunas
+Transformar csv em json
+
+
+len retorna a quantidade de itens em uma sequencia
+
+
